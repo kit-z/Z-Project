@@ -1,0 +1,3 @@
+command 
+	-add
+	-commit
